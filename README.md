@@ -1,4 +1,4 @@
-# openai-webrtc-go
+# openai-realtime-webrtc-go
 
 使用 Go 语言实现的 OpenAI Realtime API WebRTC 客户端，支持实时语音交互。
 
@@ -20,8 +20,8 @@
 ### 安装
 
 ```bash
-git clone https://github.com/yourusername/openai-webrtc-go.git
-cd openai-webrtc-go
+git clone https://github.com/realtime-ai/openai-realtime-webrtc-go.git
+cd openai-realtime-webrtc-go
 go mod tidy
 ```
 
